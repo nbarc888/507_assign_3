@@ -11,8 +11,9 @@ LINK TO R Ver (COMPLETE) :
 LINK TO PYTHON Ver (unfinished at this time 10/30):
  https://colab.research.google.com/drive/1GYSBKN1jRBnMcnxZSVUkDLah-C2wGBN0?usp=sharing
 
+LINK to python question 5: 
+https://colab.research.google.com/drive/16arTsm5_e_VD_1BNWyY0dduSq9vev0Dg?usp=sharing
 
-
-FINDINGS : 
+Note: please note this was necessary to run a regression more easier while at work. 
 
 
