@@ -2,6 +2,8 @@ LINK TO ASSIGNMENT: https://github.com/hantswilliams/HHA-507-2025/blob/main/assi
 
 
 
+Copies of Notebook are also uploaded.
+
 
 
 LINK TO R Ver (COMPLETE) :
